@@ -41,6 +41,14 @@ write nesting css also.
 # Deployment:
 https://movix-website-dipshiv.vercel.app/explore/movie
 
+# Installation
+To install and run the application locally, follow these steps:
+
+Clone this repository to your local machine
+Run npm install to install all dependencies
+Run npm start to start the development server
+Open http://localhost:3000/ in your browser to view the application
+
 
 
 
